@@ -19,7 +19,7 @@
 ## Sobre mim
 - 💻 Sou estudante de Ciência da Computação.
 - 👨🏼‍🏫 Curto bastante as linguagens Java e Python.
-- 👨🏼‍🏫Me interesso por criação de REST API usando Spring Boot bem como por Ciência de dados.
+- 👨🏼‍🏫 Me interesso por criação de REST API usando Spring Boot bem como por Ciência de dados.
 
 
 
